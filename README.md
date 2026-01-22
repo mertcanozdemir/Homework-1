@@ -3,7 +3,7 @@
 
 > **This is a GitHub Classroom template repository**
 
-This repository contains the Week 3 assignment for BMM411 Biomedical Image Processing course.
+This repository contains the hw1 assignment for BMM411 Biomedical Image Processing course.
 
 ---
 
@@ -17,11 +17,11 @@ This repository contains the Week 3 assignment for BMM411 Biomedical Image Proce
 ### Step 2: Clone Your Repository
 ```bash
 git clone <your-repository-url>
-cd BMM411-Week3-YourUsername
+cd BMM411-hw1-YourUsername
 ```
 
 ### Step 3: Work on the Assignment
-1. Open `Week3_Assignment.ipynb` in Jupyter Notebook
+1. Open `hw1.ipynb` in Vs Code
 2. Fill in your student information at the top
 3. Complete all parts of the assignment
 4. Commit your progress regularly (minimum 5 commits required)
@@ -63,7 +63,7 @@ pip install numpy matplotlib scipy
 .
 ├── README.md
 ├── .gitignore
-└── Week3_Assignment.ipynb
+└── hw1.ipynb
 ```
 
 
@@ -104,8 +104,6 @@ Good commit message examples:
 |-------|-------|
 | **Student Name** | ___________________ |
 | **Student ID** | ___________________ |
-| **GitHub Username** | ___________________ |
-| **Submission Date** | ___________________ |
 
 ## Penalties
 
