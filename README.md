@@ -33,13 +33,6 @@ pip install numpy matplotlib scipy
 └── Week3_Assignment.ipynb
 ```
 
-## Usage
-
-Open and run the Jupyter Notebook:
-
-```bash
-jupyter notebook Week3_Assignment.ipynb
-```
 
 ## Commit Guidelines
 
